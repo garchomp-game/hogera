@@ -1,5 +1,5 @@
 <?php
-echo 'hello'
+echo 'huga'
  ?>
  <!DOCTYPE html>
  <html>
@@ -8,6 +8,11 @@ echo 'hello'
      <title>hoge</title>
    </head>
    <body>
-     <h1>hoge</h1>
+     <h1>huta</h1>
+     <ul>
+       <li>hoge</li>
+       <li>hoge2</li>
+       <li>hoge3</li>
+     </ul>
    </body>
  </html>

@@ -97,7 +97,9 @@ git commit -m "first commit"
 
 
 ローカルにコミットするところまではできました。
-次に下二行
+次に下３行
+の、前に、リポジトリを作ります。リンクが必要です。
+
 git remote add origin https://github.com/ユーザー名/リポジトリ名.git
 git fetch
 git push origin master
@@ -136,3 +138,29 @@ git push origin master
 
 
 以上で終わります。
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+せっかくなのでいろいろ加えてみたり、削除してみます。
